@@ -61,11 +61,19 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "text",
       "id": "D2C3A0E7-888F-43CE-B449-D9A7B8154566"
+    },
+    {
+      "class": "text",
+      "id": "3BBD4A76-8559-4E87-ADED-FAF7CB175652"
+    },
+    {
+      "class": "text",
+      "id": "F863D55F-7D41-43D2-9F72-DCEEA499DD2D"
     }
   ],
   "name": "Beyond Copy 24",

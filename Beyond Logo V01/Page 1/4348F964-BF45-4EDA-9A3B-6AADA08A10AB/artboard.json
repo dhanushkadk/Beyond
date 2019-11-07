@@ -3,10 +3,9 @@
   "backgroundColor": {
     "_class": "color",
     "alpha": 1,
-    "blue": 0.3294117647058823,
-    "do_objectID": "D438BDB9-98B9-478E-BC3E-028B6CC78F12",
-    "green": 0.2745098039215687,
-    "red": 0.02745098039215686
+    "blue": 0.5490196078431373,
+    "green": 0.4627450980392157,
+    "red": 0.0784313725490196
   },
   "booleanOperation": -1,
   "clippingMaskMode": 0,
@@ -44,7 +43,7 @@
     "do_objectID": "36ED9BD6-EF28-4135-AFE8-FB74030B1A07"
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -61,11 +60,19 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "text",
       "id": "C1DEC8B5-2D8D-4C37-B441-FE3483B02533"
+    },
+    {
+      "class": "text",
+      "id": "3F86DAD5-3010-46E7-BEA2-093D2D2B03C2"
+    },
+    {
+      "class": "text",
+      "id": "64D95EBE-F0D0-4D29-8B11-DC96D769FB47"
     }
   ],
   "name": "Beyond Copy 25",

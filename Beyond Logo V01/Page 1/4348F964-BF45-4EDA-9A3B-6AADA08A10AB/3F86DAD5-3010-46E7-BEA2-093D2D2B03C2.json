@@ -9,9 +9,9 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.5490196078431373,
-            "green": 0.4627450980392157,
-            "red": 0.0784313725490196
+            "blue": 1,
+            "green": 1,
+            "red": 1
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
@@ -20,6 +20,8 @@
               "size": 72
             }
           },
+          "MSAttributedStringTextTransformAttribute": 1,
+          "kerning": 2,
           "paragraphStyle": {
             "_class": "paragraphStyle",
             "alignment": 0
@@ -35,9 +37,9 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.5490196078431373,
-            "green": 0.4627450980392157,
-            "red": 0.0784313725490196
+            "blue": 1,
+            "green": 1,
+            "red": 1
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
@@ -46,6 +48,8 @@
               "size": 72
             }
           },
+          "MSAttributedStringTextTransformAttribute": 1,
+          "kerning": 2,
           "paragraphStyle": {
             "_class": "paragraphStyle",
             "alignment": 0
@@ -61,9 +65,9 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.5490196078431373,
-            "green": 0.4627450980392157,
-            "red": 0.0784313725490196
+            "blue": 1,
+            "green": 1,
+            "red": 1
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
@@ -72,6 +76,8 @@
               "size": 72
             }
           },
+          "MSAttributedStringTextTransformAttribute": 1,
+          "kerning": 2,
           "paragraphStyle": {
             "_class": "paragraphStyle",
             "alignment": 0
@@ -87,9 +93,9 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.5490196078431373,
-            "green": 0.4627450980392157,
-            "red": 0.0784313725490196
+            "blue": 1,
+            "green": 1,
+            "red": 1
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
@@ -98,6 +104,8 @@
               "size": 72
             }
           },
+          "MSAttributedStringTextTransformAttribute": 1,
+          "kerning": 2,
           "paragraphStyle": {
             "_class": "paragraphStyle",
             "alignment": 0
@@ -113,9 +121,9 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.5490196078431373,
-            "green": 0.4627450980392157,
-            "red": 0.0784313725490196
+            "blue": 1,
+            "green": 1,
+            "red": 1
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
@@ -124,6 +132,8 @@
               "size": 72
             }
           },
+          "MSAttributedStringTextTransformAttribute": 1,
+          "kerning": 2,
           "paragraphStyle": {
             "_class": "paragraphStyle",
             "alignment": 0
@@ -139,9 +149,9 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.5490196078431373,
-            "green": 0.4627450980392157,
-            "red": 0.0784313725490196
+            "blue": 1,
+            "green": 1,
+            "red": 1
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
@@ -150,6 +160,8 @@
               "size": 72
             }
           },
+          "MSAttributedStringTextTransformAttribute": 1,
+          "kerning": 2,
           "paragraphStyle": {
             "_class": "paragraphStyle",
             "alignment": 0
@@ -165,11 +177,11 @@
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "F1079B73-1609-4400-A930-25321A7C3B06",
+  "do_objectID": "3F86DAD5-3010-46E7-BEA2-093D2D2B03C2",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "FC4B6291-2E3E-43E9-B173-23DB00E87B92",
+    "do_objectID": "F2C526BF-52C9-4D81-8949-0E4DF4124CDA",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -180,13 +192,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "DC2501E2-1228-4D7E-9B18-F0DD0285719D",
+    "do_objectID": "628A8461-E373-4098-AF43-132AEC2B7F0B",
     "height": 91,
-    "width": 234,
+    "width": 269,
     "x": 296,
     "y": 294
   },
-  "glyphBounds": "{{5, 19}, {222, 67}}",
+  "glyphBounds": "{{5, 22}, {258, 50}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -195,7 +207,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Beyond",
+  "name": "Beyond Copy 3",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -203,20 +215,20 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "D2A760FB-911D-4EE8-8194-34C7A0AE4332",
+    "do_objectID": "97671BD6-2302-4C1E-BE0B-3EA791BB3C33",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "6F823707-1195-47E9-B8BD-72C72F6397C4",
+      "do_objectID": "FDE742A9-EF9F-49EC-8D11-7CCA9FE3E65C",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.5490196078431373,
-          "green": 0.4627450980392157,
-          "red": 0.0784313725490196
+          "blue": 1,
+          "green": 1,
+          "red": 1
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
@@ -225,6 +237,8 @@
             "size": 72
           }
         },
+        "MSAttributedStringTextTransformAttribute": 1,
+        "kerning": 2,
         "paragraphStyle": {
           "_class": "paragraphStyle",
           "alignment": 0

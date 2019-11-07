@@ -44,7 +44,7 @@
     "do_objectID": "5C0F14DF-2A1D-4792-9F2B-6C21BC586F21"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -70,6 +70,10 @@
     {
       "class": "text",
       "id": "F1079B73-1609-4400-A930-25321A7C3B06"
+    },
+    {
+      "class": "text",
+      "id": "029197A7-A766-4D9E-B0C3-2831CF0D2926"
     }
   ],
   "name": "Beyond Copy 23",
