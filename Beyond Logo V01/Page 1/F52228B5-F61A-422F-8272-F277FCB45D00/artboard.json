@@ -43,8 +43,8 @@
     "_class": "MSImmutableFreeformGroupLayout",
     "do_objectID": "C9694914-4E29-43A0-BC16-12CAB1301437"
   },
-  "hasBackgroundColor": true,
-  "hasClickThrough": false,
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -61,7 +61,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "text",
@@ -72,8 +72,28 @@
       "id": "3BBD4A76-8559-4E87-ADED-FAF7CB175652"
     },
     {
-      "class": "text",
-      "id": "F863D55F-7D41-43D2-9F72-DCEEA499DD2D"
+      "class": "shapeGroup",
+      "id": "E20E139C-DC1C-4FF4-B774-E809C926B611"
+    },
+    {
+      "class": "shapePath",
+      "id": "25B0517A-4BB8-4A82-9B7D-B587F47955D3"
+    },
+    {
+      "class": "shapePath",
+      "id": "A01E88E9-CDD3-42F3-A231-51927CCF8223"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "3B7C788B-B4EC-4EB5-B083-F18100F77BD0"
+    },
+    {
+      "class": "shapePath",
+      "id": "35E90501-436A-49BB-9FB0-60B3C4B4E472"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "82393026-FF7E-4046-8C5A-7E8B1BF896B9"
     }
   ],
   "name": "Beyond Copy 24",

@@ -44,7 +44,7 @@
     "do_objectID": "81721E36-C0FA-488E-9E68-C74597A68498"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -66,6 +66,10 @@
     {
       "class": "text",
       "id": "9484F891-B496-4EBF-870A-EFEB48C6A2C6"
+    },
+    {
+      "class": "group",
+      "id": "095E42CA-380B-4575-B842-18D184E6C0B3"
     }
   ],
   "name": "Beyond Copy 26",

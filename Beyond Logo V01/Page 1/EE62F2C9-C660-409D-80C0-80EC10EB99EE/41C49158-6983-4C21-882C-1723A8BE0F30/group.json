@@ -1,0 +1,98 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "41C49158-6983-4C21-882C-1723A8BE0F30",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "EB50B521-8EDB-498A-B4AF-608022C45F0A",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xxxhdpi/",
+        "namingScheme": 1,
+        "scale": 4,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "3E30AB10-9900-4C73-BA7E-2AEC5FEBA198",
+    "height": 122,
+    "width": 442,
+    "x": 193,
+    "y": 352
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "A74C7C2F-E6ED-426F-9A7B-6DD906CC9509"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "73BFD087-481B-4688-A13C-7EF2163601C9"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "B098E915-2E04-4D2F-BD56-FB0AA0605B6B"
+    },
+    {
+      "class": "shapePath",
+      "id": "584F7889-A8E5-428C-80CC-25D28DC7D8F8"
+    },
+    {
+      "class": "shapePath",
+      "id": "948FAF8D-40D3-4D29-8BF6-E47C921DAD90"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "87F58D74-F7AF-4A18-A8FC-0E7D0609A380"
+    },
+    {
+      "class": "shapePath",
+      "id": "048F0D41-E311-4E0F-BE5B-CC94A97A4A2E"
+    },
+    {
+      "class": "shapePath",
+      "id": "D006FC7E-6FAF-4A1A-9E8F-D4BBB9E8CB79"
+    },
+    {
+      "class": "shapePath",
+      "id": "6E4DA109-C71C-4D94-8C71-E21E090496EE"
+    },
+    {
+      "class": "shapePath",
+      "id": "ADFE4B07-5EF4-4C77-8A89-C90E114E7E3E"
+    }
+  ],
+  "name": "Asset 1",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "F528FC78-7ACC-4D01-9A76-5CD89971C9C6",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

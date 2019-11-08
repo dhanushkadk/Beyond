@@ -1,0 +1,120 @@
+{
+  "_class": "shapeGroup",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "B2594CFB-744E-4F1C-97ED-4BB850DD81BE",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 183,
+    "width": 349,
+    "x": 0,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "56042B73-7600-461E-8F14-51E6AD5CDBF0"
+    },
+    {
+      "class": "shapePath",
+      "id": "E191EC72-0ADB-4068-BDC3-B46812208FAC"
+    },
+    {
+      "class": "shapePath",
+      "id": "03CDBAA2-0C0F-456D-B6CD-BA265F38C3D3"
+    },
+    {
+      "class": "shapePath",
+      "id": "9AEDBE01-0CFB-4C35-9CB2-B669A6D4E055"
+    },
+    {
+      "class": "shapePath",
+      "id": "8CB9014E-47FB-4BFC-8C26-C21500A372F1"
+    },
+    {
+      "class": "shapePath",
+      "id": "087294D5-63D0-4FB6-8A2D-6F682E7A1835"
+    },
+    {
+      "class": "shapePath",
+      "id": "56CDF6CB-91A3-47F4-82ED-2751A589843C"
+    },
+    {
+      "class": "shapePath",
+      "id": "5303AB1F-9696-45C6-8028-F0C1ABCEC7D3"
+    },
+    {
+      "class": "shapePath",
+      "id": "2BCB2952-7813-457E-BEDD-C7FC114BD6D3"
+    },
+    {
+      "class": "shapePath",
+      "id": "E8C3E268-2C43-4893-9D4A-5778F39796F3"
+    },
+    {
+      "class": "shapePath",
+      "id": "E18D7C06-1982-4860-B17A-E8BDD65590B8"
+    },
+    {
+      "class": "shapePath",
+      "id": "1349A1D9-8F9B-4D29-BF55-036C87B07C70"
+    },
+    {
+      "class": "shapePath",
+      "id": "AB5349B1-4564-4E4C-B075-B5B20E07DC26"
+    }
+  ],
+  "name": "Beyond",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.6352941176470588,
+          "green": 0.4666666666666667,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 0
+  },
+  "windingRule": 0
+}

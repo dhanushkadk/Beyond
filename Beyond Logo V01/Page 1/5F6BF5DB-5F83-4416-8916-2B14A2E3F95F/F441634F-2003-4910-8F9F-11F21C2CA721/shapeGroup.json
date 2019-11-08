@@ -7,6 +7,15 @@
     "_class": "exportOptions",
     "do_objectID": "E48654C3-9B62-41AA-A3D9-97A257B071E1",
     "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xxxhdpi/",
+        "namingScheme": 1,
+        "scale": 4,
+        "visibleScaleType": 0
+      }
     ],
     "includedLayerIds": [
     ],
@@ -64,8 +73,8 @@
       "id": "E65EA048-42C4-4786-B57C-17532683F97F"
     }
   ],
-  "name": "Beyond",
-  "nameIsFixed": false,
+  "name": "Beyond 6",
+  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

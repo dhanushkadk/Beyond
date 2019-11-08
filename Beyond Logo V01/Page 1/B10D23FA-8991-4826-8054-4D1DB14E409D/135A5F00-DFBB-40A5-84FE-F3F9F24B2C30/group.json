@@ -1,0 +1,90 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "135A5F00-DFBB-40A5-84FE-F3F9F24B2C30",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "87EBAA6F-8A43-4568-A07A-A361FE924179",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "xxxhdpi/",
+        "namingScheme": 1,
+        "scale": 4,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "D8BC00AC-53B9-4B45-BE0D-2244DBD160C9",
+    "height": 122,
+    "width": 442,
+    "x": 193,
+    "y": 352
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "873E6263-DF37-477D-B414-9A9E4E5E468C"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "F0AE1426-32C8-4AC1-9AE0-5BC2181E2616"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "5C81EC6A-7C6A-4DD6-A328-FD37DB7B2BB0"
+    },
+    {
+      "class": "shapePath",
+      "id": "270A0048-BA23-453D-AD1A-7A9CB7C1460D"
+    },
+    {
+      "class": "shapePath",
+      "id": "48B7F681-C98B-4262-B3E8-76BF0BEEB108"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "C7C1BF58-E672-4DB2-A7F6-8AE30C0F7460"
+    },
+    {
+      "class": "group",
+      "id": "6B8E4A5E-B3F7-4551-87E8-A446CC8E15DF"
+    },
+    {
+      "class": "group",
+      "id": "6BECF9F7-FA28-438A-9A00-E76F3469BFD6"
+    }
+  ],
+  "name": "Asset 1",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "135DAD26-CE12-4587-A8A3-9A630D315172",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

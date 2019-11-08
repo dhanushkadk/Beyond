@@ -16,7 +16,7 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "NunitoSans-Black",
+              "name": "NunitoSans-ExtraLight",
               "size": 72
             }
           },
@@ -44,7 +44,7 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "NunitoSans-Bold",
+              "name": "NunitoSans-Light",
               "size": 72
             }
           },
@@ -72,7 +72,7 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "NunitoSans-SemiBold",
+              "name": "NunitoSans-Regular",
               "size": 72
             }
           },
@@ -100,7 +100,7 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "NunitoSans-Regular",
+              "name": "NunitoSans-SemiBold",
               "size": 72
             }
           },
@@ -128,7 +128,7 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "NunitoSans-Light",
+              "name": "NunitoSans-Bold",
               "size": 72
             }
           },
@@ -156,7 +156,7 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "NunitoSans-ExtraLight",
+              "name": "NunitoSans-ExtraBold",
               "size": 72
             }
           },
@@ -194,11 +194,11 @@
     "constrainProportions": false,
     "do_objectID": "A2855000-D099-4B12-887F-76FB018F8CD6",
     "height": 98,
-    "width": 321,
+    "width": 322,
     "x": 290,
     "y": 435
   },
-  "glyphBounds": "{{4, 21}, {308, 53}}",
+  "glyphBounds": "{{6, 21}, {308, 53}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -207,7 +207,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Beyond Copy 4",
+  "name": "Beyond",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -233,7 +233,7 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "NunitoSans-Black",
+            "name": "NunitoSans-ExtraLight",
             "size": 72
           }
         },

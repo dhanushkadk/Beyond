@@ -1,0 +1,89 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "290BD927-42F7-497F-BF9E-2E4638F91B7E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "A712AE0A-F5D3-4679-B2E9-EA7EDE2E933A",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "CEBDBF61-DCBD-4996-8662-7A1C7F1B8A55",
+    "height": 122,
+    "width": 442,
+    "x": 193,
+    "y": 352
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "254D0037-D5AA-42EF-8F31-CDAD5F51E0CA"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "795D6160-FBCB-4C89-8BF6-679DA29790FE"
+    },
+    {
+      "class": "shapePath",
+      "id": "1E3BB4CE-0292-43AA-B619-E87BFFF34302"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "E2A5FC4A-3D06-4A7B-9025-D33915AA14B3"
+    },
+    {
+      "class": "shapePath",
+      "id": "0DD5367E-61B1-4B9D-AE9A-ADAA1A62480B"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "DDEB72A9-5E6C-4813-BBE0-9A3A34495194"
+    },
+    {
+      "class": "shapePath",
+      "id": "40EDEF40-B13A-4E33-8BE5-B235EF11E0D8"
+    },
+    {
+      "class": "shapePath",
+      "id": "23EB656C-2297-4B52-845C-A1C41B374E7F"
+    },
+    {
+      "class": "shapePath",
+      "id": "4A49D206-1EAF-45A4-A624-D0E0941D24BA"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "3DF0D735-E16C-4F57-9B35-25C37C6316FB"
+    }
+  ],
+  "name": "Asset 3",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "80A770E4-3FFF-4042-A8EA-63AE86ACBD7E",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

@@ -3,9 +3,9 @@
   "backgroundColor": {
     "_class": "color",
     "alpha": 1,
-    "blue": 0.5490196078431373,
-    "green": 0.4627450980392157,
-    "red": 0.0784313725490196
+    "blue": 0.2221184329710145,
+    "green": 0.1566519474637681,
+    "red": 0
   },
   "booleanOperation": -1,
   "clippingMaskMode": 0,
@@ -43,7 +43,7 @@
     "do_objectID": "405732BF-9B70-4FDA-9DB5-A16C3D000942"
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -60,11 +60,15 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "text",
       "id": "342FEF79-E2F2-475E-B2B9-2F4C9E7AFD4C"
+    },
+    {
+      "class": "group",
+      "id": "135A5F00-DFBB-40A5-84FE-F3F9F24B2C30"
     }
   ],
   "name": "Beyond Copy 28",
